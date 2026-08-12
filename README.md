@@ -34,8 +34,8 @@ Klasifikácia obrazov, 25 skupín typov architektúr budov
 ( [Dataset_Architecture](https://drive.google.com/drive/folders/13hPJY3ZBmGQp1_AwKQUTMrs3ei2GhFvs?usp=drive_link) )
 
 ### Dataset Kvety - Flowers Dataset
-Klasifikácia obrazov, Oxford dataset, 102 druhov kvetov
-( [Dataset_Flowers](https://paperswithcode.com/dataset/oxford-102-flower) )
+Klasifikácia obrazov, 5 druhov kvetov (daisy, dandelion, rose, sunflower, tulip)
+( [Dataset_Flowers](https://www.kaggle.com/code/nikhilmishra21/flowers-notebook-cnn/input) )
 
 ### Dataset Jedlá - Foods Dataset
 Klasifikácia obrazov jedál, 101 skupín obrazov jedál
