@@ -21,7 +21,7 @@ Klasifikácia obrazov, 9 skupín (vnútorné priestory reštaurácia, obývačka
 ### Dataset Ochorenia Paradajok - Plant Village 2
 Klasifikácia obrazov, 9 skupín ochorenia listov paradajok (zdravé, 8 skupín ochorenia)
 ( [Dataset_PlantVillage2](https://drive.google.com/drive/folders/1sKmmi0L4KeSf5xgxXhldCrks4oF897DX?usp=drive_link) )
-Tiež je k dispozícii na Kaggle [Vehicles](https://www.kaggle.com/datasets/emmarex/plantdisease)
+Tiež je k dispozícii na Kaggle [PlantDiseases](https://www.kaggle.com/datasets/emmarex/plantdisease)
 
 ### Dataset Počasie - Weather Dataset
 Klasifikácia obrazov, 11 skupín počasia (dew, fogsmog, frost, glaze, hail, lightning, rain, rainbow, rime, sandstorm, snow)
@@ -32,4 +32,12 @@ Doplniť obrazy počasia je možné cez datasety na Kaggle [Weather1](https://dr
 ### Dataset Architektúry - Architecture Dataset
 Klasifikácia obrazov, 25 skupín typov architektúr budov
 ( [Dataset_Architecture](https://drive.google.com/drive/folders/13hPJY3ZBmGQp1_AwKQUTMrs3ei2GhFvs?usp=drive_link) )
+
+### Dataset Kvety - Flowers Dataset
+Klasifikácia obrazov, Oxford dataset, 102 druhov kvetov
+( [Dataset_Flowers](https://paperswithcode.com/dataset/oxford-102-flower) )
+
+### Dataset Jedlá - Foods Dataset
+Klasifikácia obrazov jedál, 101 skupín obrazov jedál
+( [Dataset_Foods](https://www.kaggle.com/datasets/kmader/food41) )
 
