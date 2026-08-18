@@ -41,3 +41,19 @@ Klasifikácia obrazov, 5 druhov kvetov (daisy, dandelion, rose, sunflower, tulip
 Klasifikácia obrazov jedál, 101 skupín obrazov jedál
 ( [Dataset_Foods](https://www.kaggle.com/datasets/kmader/food41) )
 
+### Dataset Odpadky 1 - Garbage 1 Dataset
+Klasifikácia obrazov odpadkov, 10 skupín obrazov odpadkov
+( [Dataset_Garbage1](https://www.kaggle.com/datasets/sumn2u/garbageclassification-
+v2) )
+
+### Dataset Odpadky 2 - Garbage 2 Dataset
+Klasifikácia obrazov odpadkov, 6 skupín obrazov odpadkov
+( [Dataset_Garbage2](https://www.kaggle.com/datasets/asdasdasasdas/garbage-classification/data) )
+
+### Dataset Odpadky 3 - Garbage 3 Dataset
+Klasifikácia obrazov odpadkov, 12 skupín obrazov odpadkov
+( [Dataset_Garbage3](https://www.kaggle.com/datasets/asdasdasasdas/garbage-classification/data) )
+
+### Dataset na detekciu požiaru lesov - Forest Fire Smoke Dataset
+Rozpoznávanie požiaru lesov, 3 skupiny Smoke, Fire, Not_Fire
+( [Dataset_Smoke_Fire_NotFire](https://www.kaggle.com/datasets/amerzishminha/forest-fire-smoke-and-non-fire-image-dataset) )
