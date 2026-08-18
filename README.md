@@ -43,7 +43,7 @@ Klasifikácia obrazov jedál, 101 skupín obrazov jedál
 
 ### Dataset Odpadky 1 - Garbage 1 Dataset
 Klasifikácia obrazov odpadkov, 10 skupín obrazov odpadkov
-( [Dataset_Garbage1](https://www.kaggle.com/datasets/sumn2u/garbageclassification-v2) )
+( [Dataset_Garbage1](https://www.kaggle.com/datasets/sumn2u/garbage-classification-v2) )
 
 ### Dataset Odpadky 2 - Garbage 2 Dataset
 Klasifikácia obrazov odpadkov, 6 skupín obrazov odpadkov
