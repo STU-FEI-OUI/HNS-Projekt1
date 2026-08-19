@@ -33,9 +33,13 @@ Doplniť obrazy počasia je možné cez datasety na Kaggle [Weather1](https://dr
 Klasifikácia obrazov, 25 skupín typov architektúr budov
 ( [Dataset_Architecture](https://drive.google.com/drive/folders/13hPJY3ZBmGQp1_AwKQUTMrs3ei2GhFvs?usp=drive_link) )
 
-### Dataset Kvety - Flowers Dataset
+### Dataset Kvety 1 - Flowers Dataset
 Klasifikácia obrazov, 5 druhov kvetov (daisy, dandelion, rose, sunflower, tulip)
-( [Dataset_Flowers](https://www.kaggle.com/code/nikhilmishra21/flowers-notebook-cnn/input) )
+( [Dataset_Flowers1](https://www.kaggle.com/code/nikhilmishra21/flowers-notebook-cnn/input) )
+
+### Dataset Kvety 2 - Flowers Dataset - Oxford 102 flowers
+Klasifikácia obrazov, 102 druhov kvetov 
+( [Dataset_Flowers2](https://www.robots.ox.ac.uk/~vgg/data/flowers/102/) )
 
 ### Dataset Jedlá - Foods Dataset
 Klasifikácia obrazov jedál, 101 skupín obrazov jedál
