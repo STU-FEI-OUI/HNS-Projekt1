@@ -60,3 +60,11 @@ Klasifikácia obrazov odpadkov, 12 skupín obrazov odpadkov
 ### Dataset na detekciu požiaru lesov - Forest Fire Smoke Dataset
 Rozpoznávanie požiaru lesov, 3 skupiny Smoke, Fire, Not_Fire
 ( [Dataset_Smoke_Fire_NotFire](https://www.kaggle.com/datasets/amerzishminha/forest-fire-smoke-and-non-fire-image-dataset) )
+
+### Dataset PC komponentov – PC components Dataset
+Rozpoznávanie PC komponentov, 14 skupín (CPU, GPU, káble, RAM, HDD, monitor, klávesnica, ...)
+( [Dataset_PCcomponents](https://www.kaggle.com/datasets/asaniczka/pc-parts-images-dataset-classification) )
+
+### Dataset povrchových defektov oceľového pásu  – NEU Surface defect Dataset
+Klasifikácia defektov oceľového plechu, 6 skupín (valcované okuje (RS), škvrny (Pa), praskliny (Cr), jamkovitý povrch (PS), inklúzie (In) a škrabance (Sc))
+( [Dataset_Defects](https://www.kaggle.com/datasets/kaustubhdikshit/neu-surface-defect-database/data) )
