@@ -1,5 +1,5 @@
 # HNS-Projekt1
-Repozitár ku Projektu 1 na predmete HNS, tu sa nachádzajú odkazy na datsety k projektu
+Repozitár ku Projektu 1 na predmete HNS, tu sa nachádzajú odkazy na datsety k projektu a literatúru
 
 Zadanie: [Projekt 1](https://github.com/STU-FEI-OUI/HNS-test/blob/main/Zadania/HNS_Projekt1.pdf)
 
@@ -68,3 +68,25 @@ Rozpoznávanie PC komponentov, 14 skupín (CPU, GPU, káble, RAM, HDD, monitor, 
 ### Dataset povrchových defektov oceľového pásu  – NEU Surface defect Dataset
 Klasifikácia defektov oceľového plechu, 6 skupín (valcované okuje (RS), škvrny (Pa), praskliny (Cr), jamkovitý povrch (PS), inklúzie (In) a škrabance (Sc))
 ( [Dataset_Defects](https://www.kaggle.com/datasets/kaustubhdikshit/neu-surface-defect-database/data) )
+
+
+
+## Literatúra:
+- Porovnanie modelov CNN a ViT na redukovanom Food101 Datasete ( [Porovnanie_modelov_PDF_výstup](Datasets/HNS_Projekt1_porovnanie_modelov.pdf) )
+
+- Fungovanie Attention mechanizmu v Transformeroch ( [Abnar and Zuldema, Attention flow](https://arxiv.org/abs/2005.00928) )
+
+- Attention mechanizmus ( [Vaswani at all, Attention is all you need](https://arxiv.org/abs/1706.03762) )
+
+- Attention vrstva - CBAM ( [Woo at all, CBAM: Convolutional Block Attention Module](https://arxiv.org/abs/1807.06521) )
+
+- ConvNeXt - optimalizovaný CNN model ( [Zhuang Liu at all, A ConvNet for the 2020s](https://arxiv.org/abs/2201.03545) )
+
+- ViT - transformery na rozpoznávanie obrazov ( [Alexey Dosovitskiy at all, Transformers for Image Recognition](https://arxiv.org/abs/2010.11929) )
+
+- DeiT - vizuálny transformer ( [Hugo Touvron at all, Training data-efficient image transformers](https://arxiv.org/abs/2012.12877) )
+
+- Swin - vizuálny transformer ( [Ze Liu at all, Swin Transformer](https://arxiv.org/abs/2103.14030) )
+
+- CNN a ViT - hybridný model CoAtNet ( [Zihang Dai at all, CoAtNet: Marrying Convolution and Attention](https://arxiv.org/abs/2106.04803) )
+
