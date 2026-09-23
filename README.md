@@ -69,11 +69,15 @@ Rozpoznávanie PC komponentov, 14 skupín (CPU, GPU, káble, RAM, HDD, monitor, 
 Klasifikácia defektov oceľového plechu, 6 skupín (valcované okuje (RS), škvrny (Pa), praskliny (Cr), jamkovitý povrch (PS), inklúzie (In) a škrabance (Sc))
 ( [Dataset_Defects](https://www.kaggle.com/datasets/kaustubhdikshit/neu-surface-defect-database/data) )
 
+## Návody:
+- Návod ako postupovať pri modeloch a attention vrstvou ( [Návod pre realizáciu transformerov](Datasets/HNS_navod_ukazky_kodu_projekt1.pdf) )
+- Porovnanie modelov CNN a ViT na redukovanom Food101 Datasete ( [Porovnanie_modelov_PDF_výstup](Datasets/HNS_Projekt1_porovnanie_modelov.pdf) )
+- Príklad fungovania attention vrstvy, pozornosť v transformeroch, príklad generovania textu 
+* Pytorch: [01_attention_a_transformery.ipynb](Datasets/01_attention_a_transformery.ipynb)
+- Porovnanie modelov CNN a ViT na redukovanom Food101 Datasete ( [Porovnanie_modelov_PDF_výstup](Datasets/HNS_Projekt1_porovnanie_modelov.pdf) )
 
 
 ## Literatúra:
-- Porovnanie modelov CNN a ViT na redukovanom Food101 Datasete ( [Porovnanie_modelov_PDF_výstup](Datasets/HNS_Projekt1_porovnanie_modelov.pdf) )
-
 - Fungovanie Attention mechanizmu v Transformeroch ( [Abnar and Zuldema, Attention flow](https://arxiv.org/abs/2005.00928) )
 
 - Attention mechanizmus ( [Vaswani at all, Attention is all you need](https://arxiv.org/abs/1706.03762) )
