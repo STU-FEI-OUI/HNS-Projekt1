@@ -71,10 +71,14 @@ Klasifikácia defektov oceľového plechu, 6 skupín (valcované okuje (RS), šk
 
 ## Návody:
 - Návod ako postupovať pri modeloch a attention vrstvou ( [Návod pre realizáciu transformerov](Datasets/HNS_navod_ukazky_kodu_projekt1.pdf) )
-- Porovnanie modelov CNN a ViT na redukovanom Food101 Datasete ( [Porovnanie_modelov_PDF_výstup](Datasets/HNS_Projekt1_porovnanie_modelov.pdf) )
-- Príklad fungovania attention vrstvy, pozornosť v transformeroch, príklad generovania textu 
-* Pytorch: [01_attention_a_transformery.ipynb](Datasets/01_attention_a_transformery.ipynb)
-- Porovnanie modelov CNN a ViT na redukovanom Food101 Datasete ( [Porovnanie_modelov_PDF_výstup](Datasets/HNS_Projekt1_porovnanie_modelov.pdf) )
+
+- Príklad fungovania attention vrstvy, pozornosť v transformeroch, príklad generovania textu: [01_attention_a_transformery.ipynb](Datasets/01_attention_a_transformery.ipynb)
+
+- Príklady modelov z attention vrstvou : [02_vizualne_transformery.ipynb](Datasets/02_vizualne_transformery.ipynb)
+
+- Porovnanie modelov CNN a ViT na redukovanom Food101 Datasete: [03_porovnanie_modelov.ipynb](Datasets/03_porovnanie_modelov.ipynb)
+
+- Výsledky porovnania modelov CNN a ViT na redukovanom Food101 Datasete ( [Porovnanie_modelov_PDF_výstup](Datasets/HNS_Projekt1_porovnanie_modelov.pdf) )
 
 
 ## Literatúra:
