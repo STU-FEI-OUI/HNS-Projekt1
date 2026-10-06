@@ -70,6 +70,8 @@ Klasifikácia defektov oceľového plechu, 6 skupín (valcované okuje (RS), šk
 ( [Dataset_Defects](https://www.kaggle.com/datasets/kaustubhdikshit/neu-surface-defect-database/data) )
 
 ## Návody:
+- Pokyny k príprave prezentácie ( [Pokyny prezentácia](Datasets/Pokyny_projekt1.pdf) )
+
 - Návod ako postupovať pri modeloch s attention vrstvou ( [Návod pre realizáciu transformerov](Datasets/HNS_navod_ukazky_kodu_projekt1.pdf) )
 
 - Príklad fungovania attention vrstvy, pozornosť v transformeroch, príklad generovania textu: [01_attention_a_transformery.ipynb](Datasets/01_attention_a_transformery.ipynb)
